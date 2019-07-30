@@ -10,3 +10,8 @@
 3.> cd Andromeda
 4.> sh install.sh
 </pre>
+
+# How to run ?
+<pre>
+Just Type python run.py
+</pre>
