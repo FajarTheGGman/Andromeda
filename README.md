@@ -15,3 +15,6 @@
 <pre>
 Just Type python run.py
 </pre>
+
+# Support Me :)
+![donate](https://raw.githubusercontent.com/FajarTheGGman/F-Tools/master/.images/donate.jpeg)
